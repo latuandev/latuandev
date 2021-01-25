@@ -2,7 +2,7 @@
 
 - 🌱 I’m web developer
 - 🔭 I’m currently working on freelancer
-- 👯 I am looking to collaborate with back-end developer
+- 👯 I am looking to collaborate with back-end developer or mobile developer
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
