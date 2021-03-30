@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-- 🌱 I’m web developer
+- 🌱 I’m backend developer
 - 🔭 I’m currently working on freelancer
 - 👯 I am looking to collaborate with back-end developer or mobile developer
 <!--
