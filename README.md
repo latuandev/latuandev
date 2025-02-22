@@ -29,7 +29,7 @@ I'm a Software Engineer passionate about building scalable web applications, ope
 
 ## 🚀 Featured Projects
 
-### [Laravel Architecture](https://github.com/yourusername/project1)
+### [Laravel Architecture](https://github.com/latuandev/laravel-architecture)
 This is the source code architecture of Laravel version 10.x, utilizing the Repository pattern and Docker.
 
 ---
@@ -53,7 +53,7 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 ## 💡 Fun Fact
 
-[Add a fun fact about yourself or something quirky to make your profile more personal!]
+I have a strong passion for cruising around on my motorcycle and I'm fascinated by cutting-edge technology with innovative features.
 
 ---
 
